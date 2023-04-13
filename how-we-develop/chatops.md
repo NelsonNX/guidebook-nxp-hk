@@ -10,7 +10,7 @@
 
 ## Implementation
 
-- We will stream most notification to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+- We will stream most notifications to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 
 -------
 
