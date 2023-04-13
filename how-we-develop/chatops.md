@@ -27,7 +27,7 @@
 
    #### Benefits
    - `Tagged` Notifications when someone tags you in GitHub
-   - Notify any kinds of changes / deployment has made to those repositories
+   - Notifications of any kinds of changes / deployment has made to those repositories
 
 -------
 
