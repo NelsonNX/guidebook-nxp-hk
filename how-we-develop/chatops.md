@@ -2,15 +2,15 @@
 
 ## Objectives
 
-- Personal Notification can stay in Only important messages are in email box
-- Centralize all tool notification and system activities in the same platform
+- Remove unnecessary disturbance to check emails regularly
+- Centralize all the notifications and system activities in the same platform
 - Provide a more realtime and interactive way to receive the messages
 
 -------
 
 ## Implementation
 
-- We will stream most notification to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+- We will stream most notifications to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 
 -------
 
@@ -27,7 +27,7 @@
 
    #### Benefits
    - `Tagged` Notifications when someone tags you in GitHub
-   - Notifiations hat kinds of changes / deployment has made to those repositories
+   - Notifications of any kinds of changes / deployment has made to those repositories
 
 -------
 

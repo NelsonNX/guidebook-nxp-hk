@@ -24,7 +24,7 @@ Get a list of photos
 ]
 ```
 
-We are usinkg mockAPI to provide the mock response
+We are using mockAPI to provide the mock response
 You can check the manual [here](https://github.com/mockapi-io/docs/wiki)
 
 ---
@@ -40,10 +40,10 @@ You can check the manual [here](https://github.com/mockapi-io/docs/wiki)
 
 ### Technical Requirements
 
-- It must be production-ready to compile to Andriod and iOS
+- It must be production-ready to compile to Android and iOS
 - You should implement your solution using `Dart 2` and `Flutter 3`
-- You are free to use any third party libraries
-- Source codes should be stored in Github as a public repository
+- You are free to use any third-party libraries
+- Source codes should be stored in GitHub as a public repository
 - You should provide a README explaining your work
 
 ### Bonus Points
@@ -58,7 +58,7 @@ You can check the manual [here](https://github.com/mockapi-io/docs/wiki)
 
 - A functional App
 - Easy-to-follow implementations (state management, widgets, etc)
-- Good coding styles and formattings
+- Good coding styles and formatting
 
 ## Submission
 
@@ -70,5 +70,5 @@ You can check the manual [here](https://github.com/mockapi-io/docs/wiki)
 ## Others
 
 - We are happy to answer any questions
-- We expect the assignment will spend you no more than 4 hours. You can always request for more time
+- We expect the assignment will take you no more than 4 hours. You can always request for more time
 - We value quality over speed
