@@ -36,6 +36,7 @@ As a user, I want to use a web-based to-do list application to record what I hav
 - Caching mechanism
 - Automated tests
 - Traceability
+- Realtime while being updated
 - Any other additional features (Please specify)
 
 ---
