@@ -2,8 +2,8 @@
 
 ## Objectives
 
-- Personal Notification can stay in Only important messages are in email box
-- Centralize all tool notification and system activities in the same platform
+- Remove unnecessary disturbance to check emails regularly
+- Centralize all the notifications and system activities in the same platform
 - Provide a more realtime and interactive way to receive the messages
 
 -------
