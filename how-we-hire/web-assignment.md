@@ -10,7 +10,7 @@ As a user, I want to use a web-based to-do list application to note what I have 
 
 ### User Requirements
 
-- Users should be able to do CRUD operations on to-do list records
+- Users should be able to create, view, update and delete records in to-do list
 - You are free to design the UI
 
 ### Technical Requirements
