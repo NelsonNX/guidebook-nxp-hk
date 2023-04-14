@@ -2,7 +2,7 @@
 
 ## Description
 
-As a user, I want to use a web-based to-do list application to record what I have done.
+As a user, I want to use a web-based to-do list application to note what I have done.
 
 ---
 
