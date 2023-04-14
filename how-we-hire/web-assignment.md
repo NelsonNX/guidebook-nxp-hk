@@ -22,7 +22,7 @@ As a user, I want to use a web-based to-do list application to note what I have 
 - You should provide a README explaining your work
 - For senior positions, you have to provide sufficient automated tests to demonstrate your approaches are working as expected
 
-    ##### Backend
+    #### Backend
     - It must be dockerized
     - It must store the data in database
     - You should use `Node JS 18` with `Typescript 5` in strict mode
