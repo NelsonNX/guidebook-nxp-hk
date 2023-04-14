@@ -20,7 +20,7 @@ As a user, I want to use a web-based to-do list application to record what I hav
 - You are free to use any third party libraries
 - Source codes should be stored in Github as a public repository
 - You should provide a README explaining your work
-- For senior positions, you should provide sufficient automated tests to show the correctness of your system
+- For senior positions, you have to provide sufficient automated tests to demonstrate your approaches are working as expected
 
     ##### Backend
     - It must be dockerized
