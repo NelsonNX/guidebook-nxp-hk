@@ -18,7 +18,7 @@ As a user, I want to use a web-based to-do list application to note what I have 
 - It must be a web application
 - It must be production-ready
 - You are free to use any third party libraries
-- Source codes should be stored in Github as a public repository
+- Source codes should be stored in GitHub as a public repository
 - You should provide a README explaining your work
 - For senior positions, you have to provide sufficient automated tests to demonstrate your approaches are working as expected
 
@@ -46,7 +46,7 @@ As a user, I want to use a web-based to-do list application to note what I have 
 
 - A functional App
 - Easy-to-follow implementations (proper design of components, state management, architecture)
-- Good coding styles and formattings
+- Good coding styles and formatting
 
 ## Submission
 
@@ -58,5 +58,5 @@ As a user, I want to use a web-based to-do list application to note what I have 
 ## Others
 
 - We are happy to answer any questions
-- We expect the assignment will spend you no more than 6 hours. You can always request for more time
+- We expect the assignment will take you no more than 6 hours. You can always request for more time
 - We value quality over speed
